@@ -60,7 +60,3 @@ Actividad académica -- Consultas en MongoDB.
 
 ------------------------------------------------------------------------
 
-Contacto
-
-Si requiere más información, puede comunicarse conmigo a través de la
-plataforma educativa.
